@@ -2,14 +2,23 @@ body{
     background-color: black;
     text-align: center;
 }
-header{
+h1{
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
 }
+p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: Gray;
+}
 .link{
     color: aquamarine;
     font-size: 16px;
+}
+.copyright{
+    text-align: right;
+    color: gray;
 }
